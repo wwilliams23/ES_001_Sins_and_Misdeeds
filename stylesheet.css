@@ -1,0 +1,117 @@
+body	{	background-color: #FFFFFF; color: #191970;}
+
+html, body {
+			margin: 0;
+			padding: 0;
+			height: 100%;}
+			
+h1		{background-color: #191970; color: #E6E6FA; }
+
+h2		{background-color: #AEAED4; color: #191970; }
+
+
+.companyname {color: #6A6AA7;}
+
+.feature {color: #FF0000; }
+
+#body  {		padding: 10px;
+			padding-bottom: 20px; }
+			
+
+			 
+				
+.box01 {		margin-top: 15px;
+			float: left;
+			height: 750px;
+			width: 255px;
+			background-color: #99FFFF;
+			margin-left:  60px;
+			padding: 5px 10px;
+			border: 2px solid #000000;
+		}
+.box02 {		margin-top: 120px;
+			height: 400px;
+			width: 250px;
+			background-color:  #CCFFFF;
+			border: 2px solid #000000;}
+
+.box03   {		
+				height: 60px;
+				width: 244;
+				background-color: #FFFFCC;
+				border: 3px solid #000000;
+				padding: 2px;
+		}
+	
+.box04  	{	margin-top: 15px;
+			float: right;
+			height: 730px;
+			width: 460px;
+			border: 3px solid #000000;
+			margin-right: 60px;
+			background-color: FFFF99;
+			padding: 15px;
+		}
+
+.con0  {    	margin-top: 30px;
+			width: 950px;
+			height: 800px;
+			border: 3px solid #000000;
+			padding: 2px;
+			background-color: #AEAED4;
+		}
+		
+		
+.panel { 	
+			float: left;
+			width: 400px;
+			height: 240px;
+			border: 2px solid #000000;
+			margin-top: 3px;
+			margin-left: 3px;
+			margin-right: 3px;
+			margin-bottom: 3px;
+}
+
+.p1 {padding-left: 30px;}
+.r1 {
+	border: 3px solid #000000;
+	text-align: right;
+}
+.r2 {width: 360px; }
+		
+input {width: 100%; }		
+		
+		
+.table	{margin-left:20%; }	
+		
+#container1  {max-width: 800px;
+			min-width: 800px;
+			margin-left:20%;  }
+			
+		
+.lbl  		{ 
+			
+			margin-top: 30px;
+			width: 1000px;
+			
+			text-align: right;
+	border: 3px solid #000000;
+}
+#container {	
+			height: 100%;
+			min-height: 100%;
+			position: relative; }
+
+#footer {	color: #666666; 
+			position: absolute;
+			bottom:0;
+			width: 100%;
+			height: 2;
+			0px;
+			background: #6cf;}
+			
+#header {	background: #ff0;
+			padding: 10px; }
+
+#nav {background-color: #E2E2EF; }

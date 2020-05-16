@@ -1,0 +1,28 @@
+<html>
+
+	<head>
+
+	     <title>Experience Studios</title>
+
+	     <style>
+            h2 {background-color: #d5edb3;
+		       color: #5c743d;
+			   background-image:  url(images/sins.pnj);
+			   background-repeat: no-repeat;
+			}
+		    #footer {color #333333;}
+	     </style>
+
+		
+	<script type="text/javascript">
+	</script>
+
+	</head>
+
+	<body>
+	<h2>Experience Studios,/h2>
+	
+    <div id="footer">Copyright &copy; 2020 Justin /Williams</div>
+	</body>
+
+</html>

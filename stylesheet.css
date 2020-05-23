@@ -22,7 +22,7 @@ h2		{background-color: #AEAED4; color: #191970; }
 				
 .box01 {		margin-top: 15px;
 			float: left;
-			height: 750px;
+			height: 790px;
 			width: 255px;
 			background-color: #99FFFF;
 			margin-left:  60px;
@@ -45,7 +45,7 @@ h2		{background-color: #AEAED4; color: #191970; }
 	
 .box04  	{	margin-top: 15px;
 			float: right;
-			height: 730px;
+			height: 780px;
 			width: 460px;
 			border: 3px solid #000000;
 			margin-right: 60px;
@@ -55,7 +55,7 @@ h2		{background-color: #AEAED4; color: #191970; }
 
 .con0  {    	margin-top: 30px;
 			width: 950px;
-			height: 800px;
+			height: 864px;
 			border: 3px solid #000000;
 			padding: 2px;
 			background-color: #AEAED4;
@@ -88,7 +88,9 @@ input {width: 100%; }
 #container1  {max-width: 800px;
 			min-width: 800px;
 			margin-left:20%;  }
-			
+#container2  {max-width: 850px;
+			min-width: 850px;
+			margin-left:20%;  }		
 		
 .lbl  		{ 
 			
@@ -110,6 +112,8 @@ input {width: 100%; }
 			height: 2;
 			0px;
 			background: #6cf;}
+			
+#footer1 { width: 100%;}
 			
 #header {	background: #ff0;
 			padding: 10px; }
